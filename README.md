@@ -1,10 +1,33 @@
 # Certifications-and-Achievements
 A collection of my certifications
 ---
+
 ## 2026
 
-### 🏢 Internship Certificates
+###  Quiz & Participation Certificates
+**TechQuezt #35: India's Digital Stack**
 
+* **Type:** Participation Certificate
+* **Organization:** Naukri Campus
+* **Event:** TechQuezt #35: India's Digital Stack
+* **Date:** 3 October 2026
+* **Certificate:** [View Certificate](./certificates/2026-naukri-campus-techquezt-35.png)
+
+---
+  
+###  Certifications & Achievements
+**AWS Academy Graduate – Cloud Foundations**
+
+* **Type:** Training Certificate
+* **Organization:** AWS Academy
+* **Course:** Cloud Foundations
+* **Duration:** 20 Hours
+* **Issued On:** 24 September 2026
+* **Certificate:** [View Certificate](./certificates/2026-aws-academy-cloud-foundations.png)
+
+---
+
+###  Internship Certificates
 **Data Science Internship — The SkyBrisk**
 
 * **Type:** Internship Certificate
@@ -15,8 +38,7 @@ A collection of my certifications
 
 ---
 
-### 📜 Quiz & Participation Certificates
-
+###  Quiz & Participation Certificates
 **DataQuest #3: ML Basics and Model Evaluation**
 
 * **Type:** Participation Certificate
@@ -26,9 +48,9 @@ A collection of my certifications
 * **Date:** 19 September 2026
 * **Certificate:** [View Certificate](./certificates/2026-naukri-campus-dataquest-ml-basics.png)
 
+---
 
-### 📜 Course & Assessment Certificates
-
+###  Course & Assessment Certificates
 **Generative AI Literacy — SkillUp by Simplilearn**
 
 * **Type:** Assessment Certificate
@@ -39,6 +61,7 @@ A collection of my certifications
 
 ---
 
+###  Course & Assessment Certificates
 **What Is Generative AI? — LinkedIn Learning**
 
 * **Type:** Course Completion Certificate
@@ -57,8 +80,9 @@ A collection of my certifications
 * **Certificate Number:** CIT-P-3627247
 * **Certificate:** [View Certificate](./certificates/2026-icat-participation.png)
 
-### 🧪 Skills Assessments
+---
 
+###  Skills Assessments
 **MySQL Level 1 – Skills Assessment**
 
 - **Organization:** iStudio
@@ -67,8 +91,9 @@ A collection of my certifications
 - **Category:** Skills Assessment
 - **Certificate:** [View Certificate](./certificates/2026-08-iStudio-MySQL-Level-1.png)
 
-### 🧠 Quizzes & Assessments
+---
 
+###  Quizzes & Assessments
 **QuizOff 2026: India's Biggest AI Quiz**
 
 - **Organizers:** CampusCrew
@@ -77,9 +102,9 @@ A collection of my certifications
 - **Category:** AI Quiz Participation
 - **Certificate:** [View Certificate](./certificates/2026-07-QuizOff-2026-CampusCrew-Unstop.png)
 
+---
 
-### 💻 Hackathons & Competitions
-
+###  Hackathons & Competitions
 **National Innovation Hackathon 2026**
 
 - **Organizers:** AMIEE Association & CMAOI Association
@@ -88,9 +113,9 @@ A collection of my certifications
 - **Category:** Hackathon Participation
 - **Certificate:** [View Certificate](./certificates/2026-07-National-Innovation-Hackathon-2026.png)
 
+---
 
-### 🧠 Webinars & Workshops
-
+###  Webinars & Workshops
 **SQL Project Bootcamp | Solve Real Business Problems**
 
 - **Organization:** SkillEcted by JSSAV Edu. Pvt Ltd
@@ -100,9 +125,9 @@ A collection of my certifications
 - **Focus:** SQL & Real-World Business Problems
 - **Certificate:** [View Certificate](./certificates/2026-05-SkillEcted-SQL-Project-Bootcamp.png)
 
+---
 
-### 🏢 Internships
-
+###  Internships
 **Data Science Virtual Internship**
 
 - **Organization:** ShadowFox
@@ -111,8 +136,9 @@ A collection of my certifications
 - **Focus:** Data Science
 - **Certificate:** [View Certificate](./certificates/2026-04-ShadowFox-Data-Science-Internship.png)
 
-### 📚 Courses & Certifications
+---
 
+###  Courses & Certifications
 **Python 101 for Data Science**
 
 - **Provider:** IBM
@@ -124,8 +150,7 @@ A collection of my certifications
 ---
 ## 2025
 
-### 🏢 Internship & Industrial Training
-
+###  Internship & Industrial Training
 **Python Full Stack Industrial Training**
 
 - **Organization:** Techin IT Process Private Limited
