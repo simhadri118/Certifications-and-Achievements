@@ -11,7 +11,7 @@ A collection of my certifications
 - **Event:** Quizverse 2026
 - **Institution:** Parul University, Vadodara
 - **Date:** 5 October 2026
-- **Certificate:** [View Certificate]
+- **Certificate:** [View Certificate](./certificates/2026-10-unstop-quizverse-2026.png)
 
 ---
 
