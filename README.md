@@ -3,6 +3,17 @@ A collection of my certifications
 ---
 
 ## 2026
+### Quiz & Participation Certificates
+**Unstop Quizverse 2026**
+
+- **Type:** Participation Certificate
+- **Organization:** Unstop
+- **Event:** Quizverse 2026
+- **Institution:** Parul University, Vadodara
+- **Date:** 5 October 2026
+- **Certificate:** [View Certificate]
+
+---
 
 ###  Quiz & Participation Certificates
 **TechQuezt #35: India's Digital Stack**
