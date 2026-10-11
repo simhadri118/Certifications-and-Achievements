@@ -3,6 +3,17 @@ A collection of my certifications
 ---
 
 ## 2026
+### Quiz & Participation Certificates
+**Unstop Quizverse 2026**
+
+- **Type:** Participation Certificate
+- **Organization:** Unstop
+- **Event:** Quizverse 2026
+- **Institution:** Parul University, Vadodara
+- **Date:** 5 October 2026
+- **Certificate:** [View Certificate]
+
+---
 
 ###  Quiz & Participation Certificates
 **TechQuezt #35: India's Digital Stack**
@@ -11,7 +22,7 @@ A collection of my certifications
 * **Organization:** Naukri Campus
 * **Event:** TechQuezt #35: India's Digital Stack
 * **Date:** 3 October 2026
-* **Certificate:** [View Certificate](./certificates/2026-naukri-campus-techquezt-35.png)
+* **Certificate:** [View Certificate](./certificates/2026-10-naukri-campus-techquezt-35.png)
 
 ---
   
@@ -23,7 +34,7 @@ A collection of my certifications
 * **Course:** Cloud Foundations
 * **Duration:** 20 Hours
 * **Issued On:** 24 September 2026
-* **Certificate:** [View Certificate](./certificates/2026-aws-academy-cloud-foundations.png)
+* **Certificate:** [View Certificate](./certificates/2026-09-aws-academy-cloud-foundations.png)
 
 ---
 
@@ -34,7 +45,7 @@ A collection of my certifications
 * **Organization:** The SkyBrisk
 * **Internship:** Data Science Internship
 * **Duration:** 20 June 2026 – 20 September 2026
-* **Certificate:** [View Certificate](./certificates/2026-skybrisk-data-science-internship.png)
+* **Certificate:** [View Certificate](./certificates/2026-09-skybrisk-data-science-internship.png)
 
 ---
 
@@ -46,7 +57,7 @@ A collection of my certifications
 * **Event:** DataQuest #3
 * **Topic:** ML Basics and Model Evaluation
 * **Date:** 19 September 2026
-* **Certificate:** [View Certificate](./certificates/2026-naukri-campus-dataquest-ml-basics.png)
+* **Certificate:** [View Certificate](./certificates/2026-09-naukri-campus-dataquest-ml-basics.png)
 
 ---
 
@@ -57,7 +68,7 @@ A collection of my certifications
 * **Organization:** Simplilearn
 * **Assessment:** SkillQuest – Generative AI Literacy
 * **Date:** 14 September 2026
-* **Certificate:** [View Certificate](./certificates/2026-simplilearn-generative-ai-literacy.png)
+* **Certificate:** [View Certificate](./certificates/2026-09-simplilearn-generative-ai-literacy.png)
 
 ---
 
@@ -68,7 +79,7 @@ A collection of my certifications
 * **Platform:** LinkedIn Learning
 * **Course:** What Is Generative AI?
 * **Date:** 5 September 2026
-* **Certificate:** [View Certificate](./certificates/2026-linkedin-learning-generative-ai.png)
+* **Certificate:** [View Certificate](./certificates/2026-09-linkedin-learning-generative-ai.png)
 
 ---
 
@@ -78,7 +89,7 @@ A collection of my certifications
 * **Organization:** iStudio / iCAT
 * **Date:** 10 August 2026
 * **Certificate Number:** CIT-P-3627247
-* **Certificate:** [View Certificate](./certificates/2026-icat-participation.png)
+* **Certificate:** [View Certificate](./certificates/2026-08-icat-participation.png)
 
 ---
 
